@@ -16,7 +16,7 @@ pipeline {
         }
         stage('Docker Image') {
             steps {
-               sh ' docker image -t govardhan_image01 .'
+               sh ' docker build -t govardhan_image01 .'
             }
         }
        stage('Docker run') {
