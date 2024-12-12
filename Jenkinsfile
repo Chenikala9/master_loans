@@ -14,5 +14,15 @@ pipeline {
                sh 'mvn clean package'
             }
         }
+        stage('Docker Image') {
+            steps {
+               sh ' docker image -t govardhan_image01'
+            }
+        }
+       stage('Docker run') {
+            steps {
+               sh 'docker run --name govardhan_con01 -p 9090:8080 govardhan_image01 -d '
+            }
+        }
     }
 }
