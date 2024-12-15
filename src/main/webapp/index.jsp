@@ -23,10 +23,6 @@
       margin-bottom: 20px;
     }
 
-    .photo {
-      margin-top: 30px;
-    }
-
     .birthday-wishes {
       margin-top: 50px;
       padding: 20px;
@@ -41,7 +37,6 @@
   <div class="birthday-wishes">
     <h1>Happy Birthday!</h1>
     <p>Wishing you a day filled with joy, laughter, and wonderful memories.</p>
-    <img class="photo" src="path_to_your_photo.jpg" alt="Birthday Photo" width="300" height="300">
   </div>
 </body>
 </html>
