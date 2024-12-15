@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Govardhan-Geetha  Software  Training Institute <font></h1>
+<h1><font color='green'> Welcome to Govardhan-Geetha  Software  Training Institute <font></h1>
 
 <a href="https://Govardhantech.com/online-training-schedules"> <h1> CGR solutions love you </h1></a>
  <h1>  THE PUSPA RAMPAGE  </h1>
