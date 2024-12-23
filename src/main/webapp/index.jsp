@@ -34,7 +34,7 @@
   </style>
 </head>
 <body>
-  <div class="birthday-wishes">
+  <div class="birthday-wishes to my love">
     <h1>Happy Birthday!</h1>
     <p>Wishing you a day filled with joy, laughter, and wonderful memories.</p>
   </div>
